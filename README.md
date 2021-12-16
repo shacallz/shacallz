@@ -1,6 +1,4 @@
-### Olá! Eu sou Gabriel Silva
-
-##
+## Olá! Eu sou Gabriel Silva
 <div align="center">
   <a href="https://github.com/shacallz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shacallz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
