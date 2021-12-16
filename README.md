@@ -3,6 +3,7 @@
   <a href="https://github.com/shacallz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shacallz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shacallz&layout=compact&langs_count=7&theme=vue-dark"/>
+  <div style="display: inline_block">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="shacallz-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
