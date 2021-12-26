@@ -4,7 +4,7 @@
 Meu nome é Gabriel Silva, tenho 23 anos.
 
 Estou no 4° semestre de Análise desenvolvimento de sistemas na Universidade CESMAC e faço cursos de programação entre outras coisas relacionadas a área de TI em paralelo.
-Estou aberto a novas oportunidades de emprego.
+Estou aberto a novas oportunidades.
 
 ##
 
